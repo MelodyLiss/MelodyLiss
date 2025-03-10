@@ -58,7 +58,7 @@
 <h3 align="center"> Conéctate conmigo 😊</h3> 
 
 <div align="center">
-    <a href="www.linkedin.com/in/lisette-jofré-0b49472b7">
+    <a href="https://www.linkedin.com/in/lisette-jofré-0b49472b7">
         <img src="./assets/logo_1.png" alt="LinkedIn" width="60">
     </a>
     <a href="mailto:lisette.jofre.1@gmail.com">
