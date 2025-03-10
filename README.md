@@ -19,7 +19,7 @@
   <p>🍊 Estoy trabajando con React y Tailwind aunque me encanta trabajar con CSS Puro.</p>
   <p>🍁 Busco colaborar en cualquier proyecto que se alinee con mis intereses y experiencia.</p>
   <p>📙 Estoy en constante aprendizaje para mejorar mis habilidades día a día.</p>
-  <p>🐾 Dato extra : Me encantan los gatitos y los perritos y los videojuegos como animalcrossing y Stardew Valley.</p>
+  <p>🐾 Me encantan los gatitos y los perritos y los videojuegos como Animal Crossing y Stardew Valley.</p>
 </div>
 
 <br clear="both">
