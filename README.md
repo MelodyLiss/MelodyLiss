@@ -3,45 +3,50 @@
 
 
 
-<img align="left" src="./assets/petalos.gif" width="21%" style="display:inline;"><img align="right" src="./assets/petalos.gif" width="21%" style="display:inline;">
-
+<img align="left" src="./assets/petalos.gif" width="21%" style="display:inline;">
+<img align="right" src="./assets/petalos.gif" width="21%" style="display:inline;">
 <h1 align="center">Hola 👋, Soy Lisette Jofré</h1>
 <h3 align="center">Pero puedes llamarme MelodyDev 🍊</h3>
 <p align="center">👩‍💻 Apasionada por la programación y la creatividad. Me encanta aprender creando proyectos prácticos </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div style="width: 70%;">
-        <p style="margin: 5px 0;">🧡 Actualmente me encuentro trabajando en la construcción de mi portafolio y desarrollando un ecommerce.</p>
-        <p style="margin: 5px 0;">🍊 Estoy trabajando con React y Tailwind aunque me encanta trabajar con CSS Puro.</p>
-        <p style="margin: 5px 0;">🍁 Busco colaborar en cualquier proyecto que se alinee con mis intereses y experiencia.</p>
-        <p style="margin: 5px 0;">📙 Estoy en constante aprendizaje para mejorar mis habilidades día a día.</p>
-    </div>
-    <div style="width: 30%; text-align: right; ">
-        <img src="./assets/gif_1.gif" width="90%" style="transform: rotate(-5deg); border: 3px, solid, white">
-    </div>
+<br clear="both">
+<br>
+
+<div>
+  <img align="right" width="20%" src="./assets/gif_1.gif">
+  
+  <p>🧡 Actualmente me encuentro trabajando en la construcción de mi portafolio y desarrollando un ecommerce.</p>
+  <p>🍊 Estoy trabajando con React y Tailwind aunque me encanta trabajar con CSS Puro.</p>
+  <p>🍁 Busco colaborar en cualquier proyecto que se alinee con mis intereses y experiencia.</p>
+  <p>📙 Estoy en constante aprendizaje para mejorar mis habilidades día a día.</p>
+  <p>🐾 Dato extra : Me encantan los gatitos y los perritos y los videojuegos como animalcrossing y Stardew Valley.</p>
 </div>
 
-<h2 align="center">Mis habilidades ✨</h2>
+<br clear="both">
 
-<h2 align="center"> Desarroladora Frontend </h2> 
+
+<h3 align="center">MIS HABILIDADES ✨</h3>
+<hr>
+
+<h3 align="center"> Desarroladora Frontend </h3> 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,react,vite&perline=14" />
   </a>
 </p>
-<h2 align="center"> Desarroladora Backend </h2> 
+<h3 align="center"> Desarroladora Backend </h3> 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sequelize&perline=14" />
   </a>
 </p>
-<h2 align="center"> Herramientas </h2> 
+<h3 align="center"> Herramientas </h3> 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ps&perline=14" />
   </a>
 </p>
-<h2 align="center"> Explorando</h2> 
+<h3 align="center"> Explorando</h3> 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=py&perline=14" />
