@@ -15,11 +15,11 @@
 <div>
   <img align="right" width="20%" src="./assets/gif_1.gif">
   
-  <p>🧡 Actualmente me encuentro trabajando en la construcción de mi portafolio y desarrollando un ecommerce.</p>
+  <p>🧡 Actualmente me encuentro trabajando en la construcción de mi portafolio y desarrollando un ecommerce personal.</p>
   <p>🍊 Estoy trabajando con React y Tailwind aunque me encanta trabajar con CSS Puro.</p>
   <p>🍁 Busco colaborar en cualquier proyecto que se alinee con mis intereses y experiencia.</p>
   <p>📙 Estoy en constante aprendizaje para mejorar mis habilidades día a día.</p>
-  <p>🐾 Me encantan los gatitos y los perritos y los videojuegos como Animal Crossing y Stardew Valley.</p>
+  <p>🐾 Me encantan los gatitos, los perritos y los videojuegos como Animal Crossing o Stardew Valley.</p>
 </div>
 
 <br clear="both">
