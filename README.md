@@ -28,13 +28,13 @@
 <h3 align="center">MIS HABILIDADES ✨</h3>
 <hr>
 
-<h3 align="center"> Desarroladora Frontend </h3> 
+<h3 align="center"> Desarrolladora Frontend </h3> 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,react,vite&perline=14" />
   </a>
 </p>
-<h3 align="center"> Desarroladora Backend </h3> 
+<h3 align="center"> Desarrolladora Backend </h3> 
 <p align="center">
   <a href="">
     <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,sequelize&perline=14" />
