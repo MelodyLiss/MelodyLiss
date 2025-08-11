@@ -49,7 +49,7 @@
 <h3 align="center"> Explorando</h3> 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=py,astro&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,astro,mongodb&perline=14" />
   </a>
 </p>
 
